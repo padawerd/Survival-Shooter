@@ -1,0 +1,13 @@
+{
+"companyName": "DPad",
+"productName": "Survival Shooter",
+"dataUrl": "Survival-Shooter.data.unityweb",
+"asmCodeUrl": "Survival-Shooter.asm.code.unityweb",
+"asmMemoryUrl": "Survival-Shooter.asm.memory.unityweb",
+"asmFrameworkUrl": "Survival-Shooter.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
